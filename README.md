@@ -49,10 +49,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mado007&show_icons=true&theme=merko&hide_border=true" alt="mado007 streak stats"/></p>
 
----
-## My Contribution snake
-![snake gif](https://github.com/Mado007/Mado007/blob/output/github-contribution-grid-snake.gif)
----
-
 ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Mahmoud.Madoo)
