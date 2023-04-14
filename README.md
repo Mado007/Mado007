@@ -51,7 +51,7 @@
 
 ---
 ## My Contribution snake
-![Contribution snake example](https://github.com/<Madoo007>/<Madoo007>/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mado007/Mado007/blob/output/github-contribution-grid-snake.gif)
 ---
 
 ## 💰You can help me by Donating
