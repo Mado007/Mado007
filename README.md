@@ -49,5 +49,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mado007&show_icons=true&theme=merko&hide_border=true" alt="mado007 streak stats"/></p>
 
+---
+
+<img src="https://raw.githubusercontent.com/mad/mad/blob/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Mahmoud.Madoo)
