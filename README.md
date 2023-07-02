@@ -14,7 +14,7 @@
   </a>
 </div>
 <h3 align="center">💻 Passionate developer from Egypt ☺ </h3>
-- 🌱 I’m currently learning **Software Develpment | Programing | Cybersecurity | Fullstack development**
+- 🌱 I’m currently learning **Software Develpment | Programming | Shell | Software engineering**
 
 
 ## 🏆 GitHub Trophies
