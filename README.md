@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mado007&label=Profile%20views&color=0e75b6&style=flat" alt="mado007 profile views" /></p>
+<h1 align="center">Hi 👋, I'm Mahmoud</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mado007&label=Profile%20views&abbreviated=true&color=0e75b6&style=for-the-badge" alt="Mahmoud Eid profile views" /></p>
 <div align="center">
   <img src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif" height="200" width="350" alt="My Code pic" />
 </div>
