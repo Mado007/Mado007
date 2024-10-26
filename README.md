@@ -55,7 +55,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mado007&show_icons=true&locale=en&theme=merko&hide_border=true&include_all_commits=false&count_private=false" width="350" height="150" alt="mado007 stats" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mado007&show_icons=true&date_format=j%20M%5B%20Y%5D&theme=merko&hide_border=true" alt="mado007 streak stats"/></p>
-
-## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Mahmoud.Madoo)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mado999)
