@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mado007&label=Profile%20views&abbreviated=true&color=0e75b6&style=for-the-badge" alt="Mahmoud Eid profile views" /></p>
 <div align="center">
-  <img src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif" height="200" width="350" alt="My Code pic" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/06f21a161921919.63cd7887d0a70.gif" height="250" width="250" alt="My Code pic" />
 </div>
 
 <div align="center">
@@ -14,7 +14,8 @@
   </a>
 </div>
 <h3 align="center">💻 Passionate developer from Egypt ☺ </h3>
-- 🌱 I’m currently learning **Software Develpment | Programming | Shell | Software engineering**
+
+ - 💡🎓 I’m currently learning <b>Software Develpment | Reverse engineering |  Shell | Software engineering</b>
 
 
 ## 🏆 GitHub Trophies
@@ -47,11 +48,10 @@
 </div>
 
 
+## 👀 GitHub Stats:
 
-## 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mado007&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="mado007 status" width="450" height="250"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mado007&show_icons=true&layout=compact&theme=merko&hide_border=true&count_private=false&include_all_commits=false" alt="mado007 top lang" width="350" height="150"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mado007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="330" height="250" alt="mado007 most-Used-Language stats"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mado007&show_icons=true&locale=en&theme=merko&hide_border=true&include_all_commits=false&count_private=false" width="350" height="150" alt="mado007 stats" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mado007&show_icons=true&date_format=j%20M%5B%20Y%5D&theme=merko&hide_border=true" alt="mado007 streak stats"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mado007&theme=dark&hide_border=false" width="400" height="150" alt="mado007 steak" /></p>
